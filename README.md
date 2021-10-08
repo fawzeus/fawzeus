@@ -18,13 +18,13 @@
 ## contact Me
 <section>
 <a href="https://www.linkedin.com/in/faouzi-rjili-5300a0193/" target="_blank">
-   <img align="left" alt="Faouzi RJILI | Linkedin" width="100px" src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedin.gif?raw=true" />
+   <img align="left" alt="Faouzi RJILI | Linkedin" width="150px" src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedin.gif?raw=true" />
   </a>
   <a href="https://www.facebook.com/faouzi.rejili.7" target="_blank">
-   <img align="left" alt="Faouzi RJILI | Facebook" width="26px" src="https://github.com/fawzirjili/fawzirjili/blob/main/facebook.gif?raw=true" />
+   <img align="left" alt="Faouzi RJILI | Facebook" width="150px" src="https://github.com/fawzirjili/fawzirjili/blob/main/facebook.gif?raw=true" />
 </a>
   <a href="https://www.instagram.com/rjili_fawzi/" target="_blank">
-    <img align="left" alt="Faouzi RJILI | Instagram" width="24px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true" />
+    <img align="left" alt="Faouzi RJILI | Instagram" width="150px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true" />
   </a>
 <br>
 <hr>
