@@ -18,7 +18,7 @@
 ## contact Me
 <section>
 <a href="https://www.linkedin.com/in/faouzi-rjili-5300a0193/" target="_blank">
-   <img align="left" alt="Faouzi RJILI | Linkedin" width="24px" src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedin.gif?raw=true" />
+   <img align="left" alt="Faouzi RJILI | Linkedin" width="100px" src="https://github.com/fawzirjili/fawzirjili/blob/main/linkedin.gif?raw=true" />
   </a>
   <a href="https://www.facebook.com/faouzi.rejili.7" target="_blank">
    <img align="left" alt="Faouzi RJILI | Facebook" width="26px" src="https://github.com/fawzirjili/fawzirjili/blob/main/facebook.gif?raw=true" />
