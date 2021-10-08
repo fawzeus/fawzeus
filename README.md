@@ -24,7 +24,7 @@
    <img align="left" alt="Faouzi RJILI | Facebook" width="150px" src="https://github.com/fawzirjili/fawzirjili/blob/main/facebookj.gif?raw=true" />
 </a>
   <a href="https://www.instagram.com/rjili_fawzi/" target="_blank">
-    <img align="left" alt="Faouzi RJILI | Instagram" width="150px" src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true" />
+    <img align="left" alt="Faouzi RJILI | Instagram" width="150px" src=https://github.com/fawzirjili/fawzirjili/blob/main/instagramj.gif?raw=true" />
   </a>
 </section>
 <!-- End Social Media -->
