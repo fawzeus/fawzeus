@@ -31,3 +31,7 @@
   </a>
 </section>
 <!-- End Social Media -->
+
+
+## Snake eating my graph contribution graph
+![snake gif](https://github.com/fawzirjili/fawzirjili/blob/output/github-contribution-grid-snake.gif)
