@@ -30,7 +30,7 @@
     <img align="left" alt="Faouzi RJILI | Instagram" width="200px"src="https://github.com/fawzirjili/fawzirjili/blob/main/instagram-logo.gif?raw=true" />
   </a>
    <a href="https://www.youtube.com/channel/UCeyP34MyA_aMt3jvV61cNVg" target="_blank">
-    <img align="left" alt="Faouzi RJILI | YouTube" width="200"src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
+    <img align="left" alt="Faouzi RJILI | YouTube" width="200px"src="https://github.com/fawzirjili/fawzirjili/blob/main/youtube.gif?raw=true" />
   </a>
 </section>
 <!-- End Social Media -->
@@ -41,7 +41,7 @@
 </section>
 <section>
    
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
+<img align="left"  width="500" src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawzirjili&layout=compact&langs_count=8">
 
 </section>
