@@ -14,10 +14,6 @@
 <!-- End Visitor Count -->
 
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawzirjili&layout=compact&langs_count=8">
-</div>
 
 
 <!-- Start Social Media -->
@@ -42,5 +38,11 @@
 <section>
 
 ![snake gif](https://github.com/fawzirjili/fawzirjili/blob/output/github-contribution-grid-snake.gif)   
+</section>
+<section>
+   
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawzirjili&layout=compact&langs_count=8">
+
 </section>
 
