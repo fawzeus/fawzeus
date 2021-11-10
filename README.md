@@ -15,7 +15,7 @@
 
 
 <div style="text-align:center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawzirjili&layout=compact&langs_count=8">
 </div>
 
