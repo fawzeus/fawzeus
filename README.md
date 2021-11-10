@@ -13,6 +13,8 @@
 <hr>
 <!-- End Visitor Count -->
 
+
+
 <!-- Start Social Media -->
 
 ## contact Me
@@ -36,3 +38,7 @@
 
 ![snake gif](https://github.com/fawzirjili/fawzirjili/blob/output/github-contribution-grid-snake.gif)   
 </section>
+
+<div style="text-align:center">
+<img align="center" alt="Faouzi RJILI | YouTube" src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
+</div>
