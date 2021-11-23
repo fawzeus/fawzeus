@@ -37,7 +37,7 @@
 
 <section>
 
-![snake gif](https://github.com/fawzeus/fawzus/blob/output/github-contribution-grid-snake.gif)   
+![snake gif](https://github.com/fawzeus/fawzeus/blob/output/github-contribution-grid-snake.gif)   
 </section>
 <section>
    
