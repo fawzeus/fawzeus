@@ -41,8 +41,8 @@
 </section>
 <section>
    
-<img align="left"  width="450px" src="https://github-readme-stats.vercel.app/api?username=fawzirjili&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawzirjili&layout=compact&langs_count=8">
+<img align="left"  width="450px" src="https://github-readme-stats.vercel.app/api?username=fawzeus&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawzeus&layout=compact&langs_count=8">
 
 </section>
 
