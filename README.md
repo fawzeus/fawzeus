@@ -35,7 +35,7 @@
   </a>
 </section>
 <!-- End Social Media -->
--->
+
 <section>
 
 ![snake gif](https://github.com/fawzeus/fawzeus/blob/output/github-contribution-grid-snake.gif)   
